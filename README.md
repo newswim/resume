@@ -1,11 +1,7 @@
-# resume
-Some markdown for projects I've been involved in.
-
-
-Rent By Numbers :: Property management app
-Role: Jr. Developer
-Timeframe approx. January '14 - April '14
-website -- http://www.rentbynumbers.com
+**Rent By Numbers :: Property management app**
+####Role: Jr. Developer
+####Timeframe approx. January '14 - April '14
+####website -- http://www.rentbynumbers.com
 
 Description: Multi-platform app with a broad scope of functionality. Some of the modules we built included:
 
