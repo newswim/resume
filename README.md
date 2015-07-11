@@ -1,7 +1,9 @@
 #### Rent By Numbers :: Property management app
 
 Role: Jr. Developer
+
 Timeframe approx. January '14 - April '14
+
 website -- http://www.rentbynumbers.com
 
 *Description*: Multi-platform app with a broad scope of functionality. Some of the modules we built included:
@@ -31,8 +33,11 @@ Occupancy and tenant calendar
 
 
 #### Physmodo :: physical therapy app and website
+
 Role: Jr. Developer
+
 Timeframe approx. May '14 - July '14
+
 website -- http://physmodo.com
 
 Description: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application, this would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed. Also allowed for full search of all videos in the archive. 
@@ -76,8 +81,11 @@ APIs: Twitter, Google Maps, Vimeo
 #### Greenfinity Aquaponics :: extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
 Role: In-house developer / research lead
+
 Timeframe approp Jan 14' - May 14' (Present)
+
 website -- http://greenfinityfarms.com
+
 Non-Profit business
 
 **Description**: To provide an open-source, modular, non-cloud-based internet-of-things interface for automated growing of high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
