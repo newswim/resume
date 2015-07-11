@@ -1,36 +1,36 @@
 **Rent By Numbers :: Property management app**
-####Role: Jr. Developer
-####Timeframe approx. January '14 - April '14
-####website -- http://www.rentbynumbers.com
+Role: Jr. Developer
+Timeframe approx. January '14 - April '14
+website -- http://www.rentbynumbers.com
 
-Description: Multi-platform app with a broad scope of functionality. Some of the modules we built included:
+*Description*: Multi-platform app with a broad scope of functionality. Some of the modules we built included:
 
 Main features
-- a descriptive walk-through for first-timer users
-- multi-page sign up form w/ sticky sessions
-- publish-with-relations database that stored info regarding:
--/- type, description and availability of rental property
--/- variety of image types, attached to property
--/- pertinent documents, including .pdf encoding and parsing to .csv
--/- searchable tags and categories
-- Variety of user roles incl. bill pay for tenants
-- displaying location via Google Maps API
+1. a descriptive walk-through for first-timer users
+2. multi-page sign up form w/ sticky sessions
+3. publish-with-relations database that stored info regarding:
+..1. type, description and availability of rental property
+..1. variety of image types, attached to property
+..1. pertinent documents, including .pdf encoding and parsing to .csv
+..1. searchable tags and categories
+4. Variety of user roles incl. bill pay for tenants
+5. displaying location via Google Maps API
 
 Admin and tenant CMS
-- All data editable via CRUD-like forms & operations
-- Change/reset password
-- Login form with redirects and user-type directed landing pages
+1. All data editable via CRUD-like forms & operations
+2. Change/reset password
+3. Login form with redirects and user-type directed landing pages
 
 Occupancy and tenant calendar
-- could be alerted when a bill was upcoming
-- responsive design
+1. could be alerted when a bill was upcoming
+2. responsive design
 
-Stack: Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
-Libraries: CollectionFS, GridFS, publish-composite
+*Stack*: Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
+*Libraries*: CollectionFS, GridFS, publish-composite
 
 
 
-###Physmodo :: physical therapy app and website
+**Physmodo :: physical therapy app and website**
 Role: Jr. Developer
 Timeframe approx. May '14 - July '14
 website -- http://physmodo.com
