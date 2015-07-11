@@ -1,4 +1,4 @@
-**Rent By Numbers :: Property management app**
+#### Rent By Numbers :: Property management app
 Role: Jr. Developer
 Timeframe approx. January '14 - April '14
 website -- http://www.rentbynumbers.com
@@ -29,8 +29,7 @@ Occupancy and tenant calendar
 *Libraries*: CollectionFS, GridFS, publish-composite
 
 
-
-**Physmodo :: physical therapy app and website**
+#### Physmodo :: physical therapy app and website
 Role: Jr. Developer
 Timeframe approx. May '14 - July '14
 website -- http://physmodo.com
