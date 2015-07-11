@@ -1,4 +1,5 @@
 #### Rent By Numbers :: Property management app
+
 Role: Jr. Developer
 Timeframe approx. January '14 - April '14
 website -- http://www.rentbynumbers.com
@@ -72,13 +73,14 @@ Stack: Meteor/Cordova, MongoDB, Less
 APIs: Twitter, Google Maps, Vimeo
 
 
-Greenfinity Aquaponics :: extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
+#### Greenfinity Aquaponics :: extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
+
 Role: In-house developer / research lead
 Timeframe approp Jan 14' - May 14' (Present)
 website -- http://greenfinityfarms.com
 Non-Profit business
 
-Description: To provide an open-source, modular, non-cloud-based internet-of-things interface for automated growing of high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
+**Description**: To provide an open-source, modular, non-cloud-based internet-of-things interface for automated growing of high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
 
 Technologies used:
 - BeagleBone Black microcontroller
@@ -92,28 +94,28 @@ Technologies used:
 - Multi-platform of Linux, OS X and Windows
 - Embedded temperature, humidity and light sensors
 
-Libraries: Bonescript.js, Cylon.js, Sock.js, Materializecss, Universal Meteor (a fork which can run on ARM architecture)
+Libraries: 
+- Bonescript.js
+- Cylon.js, Sock.js
+- Materializecss
+- Universal Meteor (a fork which can run on ARM architecture)
 
-
--------------------------------------------------
-
-Here are some things I had jotted down, sort of the things I feel are important at present:
+***
 
 Skills to note in Resume ->
 
--- Accessibility (WCAG 2.0)
--- CSS animation
--- CSS preprocessors (Sass, Less, Stylus)
--- SVG & SVG animation
+- Accessibility (WCAG 2.0)
+- CSS animation
+- CSS preprocessors (Sass, Less, Stylus)-- SVG & SVG animation
 -- Famo.us 3D DOM & physics engine
--- (searching --- full text search -- Elastic?)
--- $regex
--- Google crawling // spiderable // SEO
--- Test-driven development
--- Amazon AWS
--- RWD best practices, FlexBox
--- Grunt, Gulp, Yeoman
--- Javascript, CoffeeScript, TypeScript (for Angular 2.0)
--- REST-style DDP data flows via websocket
--- package-oriented application structure
--- implemented dozens of packages
+- (searching --- full text search -- Elastic?)
+- $regex
+- Google crawling // spiderable // SEO
+- Test-driven development
+- Amazon AWS
+- RWD best practices, FlexBox
+- Grunt, Gulp, Yeoman
+- Javascript, CoffeeScript, TypeScript (for Angular 2.0)
+- REST-style DDP data flows via websocket
+- package-oriented application structure
+- implemented dozens of packages
