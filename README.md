@@ -37,6 +37,7 @@ Main features
 *Libraries* | CollectionFS, GridFS, publish-composite
 
 
+
 #### Physmodo :: physical therapy app and website
 
 Role: Jr. Developer
@@ -63,6 +64,7 @@ Main features:
 [ note --- This website is a bit buggy currently but I don't have access to fix it. ]
 
 
+
 #### Dallas-Leipzig Conference :: scheduling app
 
 Role: Developer
@@ -82,17 +84,16 @@ Stack: Meteor/Cordova, MongoDB, Less
 APIs: Twitter, Google Maps, Vimeo
 
 
-#### Greenfinity Aquaponics :: extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
+
+#### Greenfinity Farms Aquaponics :: 
+#####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
 Role: In-house developer / research lead
-
 Timeframe approp Jan 14' - May 14' (Present)
-
 website -- http://greenfinityfarms.com
+*Non-Profit business*
 
-Non-Profit business
-
-**Description**: To provide an open-source, modular, non-cloud-based internet-of-things interface for automated growing of high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
+*Description*: Our intent is to provide an open-source, modular, non-cloud-based internet-of-things interface for the automation of growing high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
 
 Technologies used:
 - BeagleBone Black microcontroller
@@ -111,6 +112,7 @@ Libraries:
 - Cylon.js, Sock.js
 - Materializecss
 - Universal Meteor (a fork which can run on ARM architecture)
+
 
 ***
 
