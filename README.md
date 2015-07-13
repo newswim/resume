@@ -86,9 +86,9 @@ APIs: Twitter, Google Maps, Vimeo
 #### Greenfinity Farms Aquaponics :: 
 #####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
-Role: In-house developer / research lead<br>
-Timeframe approp Jan 14' - present<br>
-website -- http://greenfinityfarms.com<br>
+In-house developer / research lead<br>
+Jan 14' - present<br>
+http://greenfinityfarms.com<br>
 #####*Non-Profit business*
 
 *Description*: Our intent is to provide an open-source, modular, non-cloud-based internet-of-things interface for the automation of growing high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
