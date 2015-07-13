@@ -31,9 +31,9 @@ Occupancy and tenant calendar
 1. could be alerted when a bill was upcoming
 2. responsive design
 
-*Stack |: Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
+*Stack* | Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
 
-*Libraries* |: CollectionFS, GridFS, publish-composite
+*Libraries* | CollectionFS, GridFS, publish-composite
 
 
 #### Physmodo :: physical therapy app and website
@@ -49,6 +49,7 @@ website -- http://physmodo.com
 *Note: To my knowledge, this is now going through its second round of funding.*
 
 Main features:
+
 - Custom CMS from scratch
 - Embedding of Vimeo
 - Fetching of all meta data thru Vimeo's API
@@ -56,21 +57,27 @@ Main features:
 - Rating system
 - Feedback to the therapist
 
-Stack: Meteor, MongoDB, CSS, jQuery, HTML, Vimeo
-Libraries: Bootstrap3, Less
+*Stack* | Meteor, MongoDB, CSS, jQuery, HTML, Vimeo
+
+*Libraries* | Bootstrap3, Less
 
 (+) Additionally we made a website ( http://physmodo.com ) alongside Square205 featuring a cascade of animated images, for the animations we used GreenSock (GSAP).
 [ note --- This website is a bit buggy currently but I don't have access to fix it. ]
 
 
-Leipzig Conf. :: scheduling app
+#### Dallas-Leipzig Conference :: scheduling app
+
 Role: Developer
+
 Timeframe approx. Aug 14' - Dec 14'
+
 website -- http://www.dallasleipzigvalve.org
 
-Description: To build a native-feeling application, downloaded through Google Play and iStore, running natively w/ Cordova/PhoneGap.
+
+*Description*: To build a native-feeling application, downloaded through Google Play and iStore, running natively w/ Cordova/PhoneGap.
 
 Main features:
+
 - Admin panel for adding talks, speakers, panels, as well as altering notices to a client-side route.
 - Cross-platform and mobile-first
 - Side-scrolling UI
