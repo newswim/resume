@@ -9,6 +9,7 @@ website -- http://www.rentbynumbers.com
 *Description*: Multi-platform app with a broad scope of functionality. Some of the modules we built included:
 
 Main features
+
 1. a descriptive walk-through for first-timer users
 2. multi-page sign up form w/ sticky sessions
 3. publish-with-relations database that stored info regarding:
