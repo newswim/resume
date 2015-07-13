@@ -60,8 +60,8 @@ Main features:
 
 *Libraries* | Bootstrap3, Less
 
-(+) Additionally we made a website ( http://physmodo.com ) alongside Square205 featuring a cascade of animated images, for the animations we used GreenSock (GSAP).
-[ note --- This website is a bit buggy currently but I don't have access to fix it. ]
+Additionally my team created a website ( http://physmodo.com ) alongside Square205 featuring a cascade of animated images; for the animations we used GreenSock (GSAP).
+*note: This website is a bit buggy currently but I don't have access to fix it.*
 
 ***
 
@@ -71,7 +71,7 @@ Role: Developer
 Timeframe approx. Aug 14' - Dec 14'
 website -- http://www.dallasleipzigvalve.org
 
-*Description*: To build a native-feeling application, downloaded through Google Play and iStore, running natively w/ Cordova/PhoneGap.
+*Description*: Build a native-feeling application, download through Google Play and iStore, and run natively with Cordova/PhoneGap.
 
 Main features:
 - Admin panel for adding talks, speakers, panels, as well as altering notices to a client-side route.
@@ -121,10 +121,10 @@ Skills of note ->
 - Accessibility (WCAG 2.0)
 - CSS animation
 - CSS preprocessors (Sass, Less, Stylus)-- SVG & SVG animation
--- Famo.us 3D DOM & physics engine
-- (searching --- full text search -- Elastic?)
+- Famo.us 3D DOM & physics engine
+- Full Text Search
 - $regex
-- Google crawling // spiderable // SEO
+- SEO, phantomJS
 - Test-driven development
 - Amazon AWS
 - RWD best practices, FlexBox
