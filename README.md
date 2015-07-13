@@ -1,7 +1,7 @@
 #### Rent By Numbers :: Property management app
 
 Role: Jr. Developer<br>
-Timeframe approx. January '14 - April '14<br>
+Jan - April, 2014<br>
 website -- http://www.rentbynumbers.com<br>
 
 *Description*: Multi-platform app with a broad scope of functionality.
@@ -38,7 +38,7 @@ website -- http://www.rentbynumbers.com<br>
 #### Physmodo :: physical therapy app and website
 
 Role: Jr. Developer<br>
-Timeframe approx. May '14 - July '14<br>
+May - July, 2014<br>
 website -- http://physmodo.com<br>
 
 *Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application. This would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed as well as full search of all videos in the archive. 
@@ -65,7 +65,7 @@ Additionally my team created a website ( http://physmodo.com ) alongside Square2
 #### Dallas-Leipzig Conference :: scheduling app
 
 Role: Developer<br>
-Timeframe approx. Aug 14' - Dec 14'<br>
+Aug - Dec, 2014<br>
 website -- http://www.dallasleipzigvalve.org<br>
 
 *Description*: Build a native-feeling application, download through Google Play and iStore, and run natively with Cordova/PhoneGap.
@@ -87,7 +87,7 @@ APIs: Twitter, Google Maps, Vimeo
 #####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
 In-house developer / research lead<br>
-Jan 14' - present<br>
+Jan 2014 - Present<br>
 http://greenfinityfarms.com<br>
 #####*Non-Profit business*
 
