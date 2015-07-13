@@ -81,6 +81,7 @@ Main features:
 - Randomized "Discover" page
 
 Stack: Meteor/Cordova, MongoDB, Less
+
 APIs: Twitter, Google Maps, Vimeo
 
 ***
@@ -89,8 +90,11 @@ APIs: Twitter, Google Maps, Vimeo
 #####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
 Role: In-house developer / research lead
-Timeframe approp Jan 14' - May 14' (Present)
+
+Timeframe approp Jan 14' - present
+
 website -- http://greenfinityfarms.com
+
 *Non-Profit business*
 
 *Description*: Our intent is to provide an open-source, modular, non-cloud-based internet-of-things interface for the automation of growing high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
