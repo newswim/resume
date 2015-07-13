@@ -20,12 +20,15 @@ Main features
 4. variety of user roles incl. bill pay for tenants
 5. displaying location via Google Maps API
 
-Admin and tenant CMS
+#####Admin and tenant CMS
+
 1. All data editable via CRUD-like forms & operations
 2. Change/reset password
 3. Login form with redirects and user-type directed landing pages
+4. Custom API
 
-Occupancy and tenant calendar
+#####Occupancy and tenant calendar
+
 1. could be alerted when a bill was upcoming
 2. responsive design
 
@@ -111,7 +114,7 @@ Libraries:
 
 ***
 
-Skills to note in Resume ->
+Skills of note ->
 
 - Accessibility (WCAG 2.0)
 - CSS animation
