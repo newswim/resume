@@ -11,7 +11,7 @@ website -- http://www.rentbynumbers.com
 Main features
 
 1. a descriptive walk-through for first-timer users
-2. multi-page sign up form w/ sticky sessions
+2. multi-page sign up form with sticky sessions
 3. publish-with-relations database that stored info regarding:
   - type, description and availability of rental property
   - variety of image types, attached to property
@@ -44,7 +44,7 @@ Role: Jr. Developer
 Timeframe approx. May '14 - July '14
 website -- http://physmodo.com
 
-*Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application, this would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed. Also allowed for full search of all videos in the archive. 
+*Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application. This would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed as well as full search of all videos in the archive. 
 
 *Note: To my knowledge, this is now going through its second round of funding.*
 
