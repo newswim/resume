@@ -37,9 +37,9 @@ Main features
 
 #### Physmodo :: physical therapy app and website
 
-Role: Jr. Developer
-Timeframe approx. May '14 - July '14
-website -- http://physmodo.com
+Role: Jr. Developer<br>
+Timeframe approx. May '14 - July '14<br>
+website -- http://physmodo.com<br>
 
 *Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application. This would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed as well as full search of all videos in the archive. 
 
@@ -64,9 +64,9 @@ Additionally my team created a website ( http://physmodo.com ) alongside Square2
 
 #### Dallas-Leipzig Conference :: scheduling app
 
-Role: Developer
-Timeframe approx. Aug 14' - Dec 14'
-website -- http://www.dallasleipzigvalve.org
+Role: Developer<br>
+Timeframe approx. Aug 14' - Dec 14'<br>
+website -- http://www.dallasleipzigvalve.org<br>
 
 *Description*: Build a native-feeling application, download through Google Play and iStore, and run natively with Cordova/PhoneGap.
 
