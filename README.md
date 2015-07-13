@@ -36,7 +36,7 @@ Main features
 
 *Libraries* | CollectionFS, GridFS, publish-composite
 
-
+***
 
 #### Physmodo :: physical therapy app and website
 
@@ -63,7 +63,7 @@ Main features:
 (+) Additionally we made a website ( http://physmodo.com ) alongside Square205 featuring a cascade of animated images, for the animations we used GreenSock (GSAP).
 [ note --- This website is a bit buggy currently but I don't have access to fix it. ]
 
-
+***
 
 #### Dallas-Leipzig Conference :: scheduling app
 
@@ -83,7 +83,7 @@ Main features:
 Stack: Meteor/Cordova, MongoDB, Less
 APIs: Twitter, Google Maps, Vimeo
 
-
+***
 
 #### Greenfinity Farms Aquaponics :: 
 #####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
@@ -133,3 +133,5 @@ Skills of note ->
 - REST-style DDP data flows via websocket
 - package-oriented application structure
 - implemented dozens of packages
+
+Thanks, Github! :octocat:
