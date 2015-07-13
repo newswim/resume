@@ -21,13 +21,11 @@ Main features
 5. displaying location via Google Maps API
 
 Admin and tenant CMS
-
 1. All data editable via CRUD-like forms & operations
 2. Change/reset password
 3. Login form with redirects and user-type directed landing pages
 
 Occupancy and tenant calendar
-
 1. could be alerted when a bill was upcoming
 2. responsive design
 
@@ -39,9 +37,7 @@ Occupancy and tenant calendar
 #### Physmodo :: physical therapy app and website
 
 Role: Jr. Developer
-
 Timeframe approx. May '14 - July '14
-
 website -- http://physmodo.com
 
 *Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application, this would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed. Also allowed for full search of all videos in the archive. 
@@ -49,7 +45,6 @@ website -- http://physmodo.com
 *Note: To my knowledge, this is now going through its second round of funding.*
 
 Main features:
-
 - Custom CMS from scratch
 - Embedding of Vimeo
 - Fetching of all meta data thru Vimeo's API
@@ -68,16 +63,12 @@ Main features:
 #### Dallas-Leipzig Conference :: scheduling app
 
 Role: Developer
-
 Timeframe approx. Aug 14' - Dec 14'
-
 website -- http://www.dallasleipzigvalve.org
-
 
 *Description*: To build a native-feeling application, downloaded through Google Play and iStore, running natively w/ Cordova/PhoneGap.
 
 Main features:
-
 - Admin panel for adding talks, speakers, panels, as well as altering notices to a client-side route.
 - Cross-platform and mobile-first
 - Side-scrolling UI
