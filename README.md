@@ -21,16 +21,18 @@ Main features
 5. displaying location via Google Maps API
 
 Admin and tenant CMS
+
 1. All data editable via CRUD-like forms & operations
 2. Change/reset password
 3. Login form with redirects and user-type directed landing pages
 
 Occupancy and tenant calendar
+
 1. could be alerted when a bill was upcoming
 2. responsive design
 
-*Stack*: Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
-*Libraries*: CollectionFS, GridFS, publish-composite
+*Stack |: Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
+*Libraries* |: CollectionFS, GridFS, publish-composite
 
 
 #### Physmodo :: physical therapy app and website
@@ -41,9 +43,9 @@ Timeframe approx. May '14 - July '14
 
 website -- http://physmodo.com
 
-Description: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application, this would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed. Also allowed for full search of all videos in the archive. 
+*Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application, this would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed. Also allowed for full search of all videos in the archive. 
 
-Note: As far as I'm aware, this is currently going through its second round of funding.
+*Note: To my knowledge, this is now going through its second round of funding.*
 
 Main features:
 - Custom CMS from scratch
@@ -58,7 +60,6 @@ Libraries: Bootstrap3, Less
 
 (+) Additionally we made a website ( http://physmodo.com ) alongside Square205 featuring a cascade of animated images, for the animations we used GreenSock (GSAP).
 [ note --- This website is a bit buggy currently but I don't have access to fix it. ]
-
 
 
 Leipzig Conf. :: scheduling app
