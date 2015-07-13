@@ -2,7 +2,7 @@
 
 Role: Jr. Developer<br>
 Jan - April, 2014<br>
-website -- http://www.rentbynumbers.com<br>
+http://www.rentbynumbers.com<br>
 
 *Description*: Multi-platform app with a broad scope of functionality.
 
@@ -39,7 +39,7 @@ website -- http://www.rentbynumbers.com<br>
 
 Role: Jr. Developer<br>
 May - July, 2014<br>
-website -- http://physmodo.com<br>
+http://physmodo.com<br>
 
 *Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application. This would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed as well as full search of all videos in the archive. 
 
@@ -66,7 +66,7 @@ Additionally my team created a website ( http://physmodo.com ) alongside Square2
 
 Role: Developer<br>
 Aug - Dec, 2014<br>
-website -- http://www.dallasleipzigvalve.org<br>
+http://www.dallasleipzigvalve.org<br>
 
 *Description*: Build a native-feeling application, download through Google Play and iStore, and run natively with Cordova/PhoneGap.
 
@@ -114,7 +114,7 @@ Libraries:
 
 ***
 
-Skills of note ->
+Additional skills of note ->
 
 - Accessibility (WCAG 2.0)
 - CSS animation
