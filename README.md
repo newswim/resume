@@ -1,10 +1,8 @@
 #### Rent By Numbers :: Property management app
 
-Role: Jr. Developer
-
-Timeframe approx. January '14 - April '14
-
-website -- http://www.rentbynumbers.com
+Role: Jr. Developer<br>
+Timeframe approx. January '14 - April '14<br>
+website -- http://www.rentbynumbers.com<br>
 
 *Description*: Multi-platform app with a broad scope of functionality. Some of the modules we built included:
 
@@ -32,8 +30,7 @@ Main features
 1. could be alerted when a bill was upcoming
 2. responsive design
 
-*Stack* | Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
-
+*Stack* | Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp<br>
 *Libraries* | CollectionFS, GridFS, publish-composite
 
 ***
@@ -73,29 +70,26 @@ website -- http://www.dallasleipzigvalve.org
 
 *Description*: Build a native-feeling application, download through Google Play and iStore, and run natively with Cordova/PhoneGap.
 
-Main features:
+Main features:<br>
 - Admin panel for adding talks, speakers, panels, as well as altering notices to a client-side route.
 - Cross-platform and mobile-first
 - Side-scrolling UI
 - Speaker listing with infini-scroll
 - Randomized "Discover" page
 
-Stack: Meteor/Cordova, MongoDB, Less
-
+Stack: Meteor/Cordova, MongoDB, Less<br>
 APIs: Twitter, Google Maps, Vimeo
+
 
 ***
 
 #### Greenfinity Farms Aquaponics :: 
 #####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
-Role: In-house developer / research lead
-
-Timeframe approp Jan 14' - present
-
-website -- http://greenfinityfarms.com
-
-*Non-Profit business*
+Role: In-house developer / research lead<br>
+Timeframe approp Jan 14' - present<br>
+website -- http://greenfinityfarms.com<br>
+#####*Non-Profit business*
 
 *Description*: Our intent is to provide an open-source, modular, non-cloud-based internet-of-things interface for the automation of growing high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
 
