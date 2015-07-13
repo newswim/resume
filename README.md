@@ -4,9 +4,9 @@ Role: Jr. Developer<br>
 Timeframe approx. January '14 - April '14<br>
 website -- http://www.rentbynumbers.com<br>
 
-*Description*: Multi-platform app with a broad scope of functionality. Some of the modules we built included:
+*Description*: Multi-platform app with a broad scope of functionality.
 
-Main features
+#####Main features
 
 1. a descriptive walk-through for first-timer users
 2. multi-page sign up form with sticky sessions
