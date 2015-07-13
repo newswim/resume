@@ -1,6 +1,6 @@
 #### Rent By Numbers :: Property management app
 
-Role: Jr. Developer<br>
+Role: Developer<br>
 Jan - April, 2014<br>
 http://www.rentbynumbers.com<br>
 
@@ -37,7 +37,7 @@ http://www.rentbynumbers.com<br>
 
 #### Physmodo :: physical therapy app and website
 
-Role: Jr. Developer<br>
+Role: Developer<br>
 May - July, 2014<br>
 http://physmodo.com<br>
 
@@ -86,7 +86,7 @@ APIs: Twitter, Google Maps, Vimeo
 #### Greenfinity Farms Aquaponics :: 
 #####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
-In-house developer / research lead<br>
+Role: In-house Developer / Research Lead<br>
 Jan 2014 - Present<br>
 http://greenfinityfarms.com<br>
 #####*Non-Profit business*
