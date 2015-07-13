@@ -13,12 +13,10 @@ Main features
 1. a descriptive walk-through for first-timer users
 2. multi-page sign up form w/ sticky sessions
 3. publish-with-relations database that stored info regarding:
-
-..1. type, description and availability of rental property
-..1. variety of image types, attached to property
-..1. pertinent documents, including .pdf encoding and parsing to .csv
-..1. searchable tags and categories
-
+  * type, description and availability of rental property
+  * variety of image types, attached to property
+  * pertinent documents, including .pdf encoding and parsing to .csv
+  * searchable tags and categories
 4. Variety of user roles incl. bill pay for tenants
 5. displaying location via Google Maps API
 
