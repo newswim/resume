@@ -32,6 +32,7 @@ Occupancy and tenant calendar
 2. responsive design
 
 *Stack |: Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp
+
 *Libraries* |: CollectionFS, GridFS, publish-composite
 
 
