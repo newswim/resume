@@ -87,7 +87,7 @@ APIs: Twitter, Google Maps, Vimeo
 #####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
 
 Role: In-house Developer / Research Lead<br>
-Jan 2014 - Present<br>
+Jan 2015 - Present<br>
 http://greenfinityfarms.com<br>
 #####*Non-Profit business*
 
