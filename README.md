@@ -118,7 +118,8 @@ Additional skills of note ->
 
 - Accessibility (WCAG 2.0)
 - CSS animation
-- CSS preprocessors (Sass, Less, Stylus)-- SVG & SVG animation
+- CSS preprocessors (Sass, Less, Stylus)
+- SVG & SVG animation
 - Famo.us 3D DOM & physics engine
 - Full Text Search
 - $regex
