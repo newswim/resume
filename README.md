@@ -1,4 +1,50 @@
-#### Rent By Numbers :: Property management app
+### SAVI Controls, LLC :: Web-based A/V control platform
+
+Role: Web Developer / Support Technician<br>
+July 2015 - December 2016<br>
+http://www.savicontrols.com
+
+_A Node.js application which interacts with the Control4 platform to bring
+home automation into corporate and large-scale build-outs._
+
+#### Main Features
+1. Admin panel
+3. Custom user screens
+4. Embedded video feed preview
+5. Fully responsive
+
+*Stack* | ES6, MongoDB, React.js, Meteor<br>
+*Tools* | Babel, Mantra, Hapi, Joi, Fibers/Futures, Stylus, ESLint
+
+#### Projects
+
+- Built new landing pages for company and its sister company
+- Wrote hardware drivers
+- Came up with novel means of interoperating with hardware which was not designed
+to be controlled through a web app.
+- Built a new Shopify store for products and dealers
+- Built webhook endpoints for Shopify backend to connect with our custom CMS
+- Worked with product designer to maintain brand identity
+- Created tutorial videos for dealers and support techs
+- Custom login screen for Ubuntu 16 (usig xfce and Systemd)
+
+***
+### Greenfinity Farms Aquaponics ::
+
+Role: In-house Developer / Research Lead<br>
+Jan 2015 - Present<br>
+http://greenfinityfarms.com<br>
+
+_Extensible IoT solution for automated growing of aquaponic microgreens_
+
+Our intent is to provide an open-source, modular, non-cloud-based internet-of-things interface for the automation of growing high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
+
+*Hardware* | Embedded temperature, humidity, pH and light sensors<br>
+*Stack* | BeagleBone MCU, Python, Node.js, Xively, Meteor, MongoDB, all major OS's<br>
+*Tools* | Bonescript.js, Cylon.js, Sock.js, Material.css, Universal Meteor (a fork which can run on ARM architecture), Cloud9 IDE
+
+***
+### Rent By Numbers :: Property management app
 
 Role: Developer<br>
 Jan - April, 2014<br>
@@ -6,7 +52,7 @@ http://www.rentbynumbers.com<br>
 
 *Description*: Multi-platform app with a broad scope of functionality.
 
-#####Main features
+#### Main features
 
 1. a descriptive walk-through for first-timer users
 2. multi-page sign up form with sticky sessions
@@ -18,32 +64,30 @@ http://www.rentbynumbers.com<br>
 4. variety of user roles incl. bill pay for tenants
 5. displaying location via Google Maps API
 
-#####Admin and tenant CMS
+#### Admin and tenant CMS
 
 1. All data editable via CRUD-like forms & operations
 2. Change/reset password
 3. Login form with redirects and user-type directed landing pages
 4. Custom API
 
-#####Occupancy and tenant calendar
+#### Occupancy and tenant calendar
 
-1. could be alerted when a bill was upcoming
-2. responsive design
+1. Push notifications when a bill was upcoming
+2. Responsive design
 
 *Stack* | Javascript, Meteor framework, MongoDB, CSS, HTML, jQuery, MailChimp<br>
-*Libraries* | CollectionFS, GridFS, publish-composite
+*Tools* | CollectionFS, GridFS, publish-composite
 
 ***
 
-#### Physmodo :: physical therapy app and website
+### Physmodo :: physical therapy app and website
 
 Role: Developer<br>
 May - July, 2014<br>
 http://physmodo.com<br>
 
-*Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application. This would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed as well as full search of all videos in the archive. 
-
-*Note: To my knowledge, this is now going through its second round of funding.*
+*Description*: Worked with local branding and web consulting agency Square205 (square205.com) to design and create a web application. This would allow doctors and therapists to create a curriculum of videos and instructions for their clients, and allow the clients to interact by viewing, rating and marking completed as well as full search of all videos in the archive.
 
 Main features:
 - Custom CMS from scratch
@@ -53,84 +97,32 @@ Main features:
 - Rating system
 - Feedback to the therapist
 
-*Stack* | Meteor, MongoDB, CSS, jQuery, HTML, Vimeo
-
-*Libraries* | Bootstrap3, Less
+*Stack* | Meteor, MongoDB, CSS, jQuery, HTML, Vimeo<br>
+*Tools* | Bootstrap3, Less
 
 Additionally my team created a website ( http://physmodo.com ) alongside Square205 featuring a cascade of animated images; for the animations we used GreenSock (GSAP).
-*note: This website is a bit buggy currently but I don't have access to fix it.*
 
 ***
 
-#### Dallas-Leipzig Conference :: scheduling app
+#### Additional skills
 
-Role: Developer<br>
-Aug - Dec, 2014<br>
-http://www.dallasleipzigvalve.org<br>
-
-*Description*: Build a native-feeling application, download through Google Play and iStore, and run natively with Cordova/PhoneGap.
-
-Main features:<br>
-- Admin panel for adding talks, speakers, panels, as well as altering notices to a client-side route.
-- Cross-platform and mobile-first
-- Side-scrolling UI
-- Speaker listing with infini-scroll
-- Randomized "Discover" page
-
-Stack: Meteor/Cordova, MongoDB, Less<br>
-APIs: Twitter, Google Maps, Vimeo
-
-
-***
-
-#### Greenfinity Farms Aquaponics :: 
-#####extensible IoT solution for automated growing of aquaponic and aeroponic microgreens and fish
-
-Role: In-house Developer / Research Lead<br>
-Jan 2015 - Present<br>
-http://greenfinityfarms.com<br>
-#####*Non-Profit business*
-
-*Description*: Our intent is to provide an open-source, modular, non-cloud-based internet-of-things interface for the automation of growing high quality, high protein foods. After trying a bunch of different platforms, we attempted to solve the problem of live-updating, reactive sensor data with Node.js. This is an on-going project with a lot of people working around the globe using many different technology stacks. The idea is to one day soon be able to automate any IoT device in your house, even to fly a drone.
-
-Technologies used:
-- BeagleBone Black microcontroller
-- Python
-- Node.js
-- Xively
-- DDP - distributed data protocol
-- Meteor Streams
-- Cloud9 IDE
-- MongoDB
-- Multi-platform of Linux, OS X and Windows
-- Embedded temperature, humidity and light sensors
-
-Libraries: 
-- Bonescript.js
-- Cylon.js, Sock.js
-- Materializecss
-- Universal Meteor (a fork which can run on ARM architecture)
-
-
-***
-
-Additional skills of note ->
-
-- Accessibility (WCAG 2.0)
+- Git
+- Atom
+- ES2016 and 2017 features
+- Unit and Integration testing
+- Accessibility
 - CSS animation
 - CSS preprocessors (Sass, Less, Stylus)
-- SVG & SVG animation
 - Famo.us 3D DOM & physics engine
+- CoffeeScript, Elm, Flow
+- SVG & SVG animation
 - Full Text Search
-- $regex
-- SEO, phantomJS
-- Test-driven development
+- Regex
 - Amazon AWS
-- RWD best practices, FlexBox
+- SEO, phantomJS
 - Grunt, Gulp, Yeoman
-- Javascript, CoffeeScript, TypeScript (for Angular 2.0)
-- REST-style DDP data flows via websocket
-- package-oriented application structure
-- implemented dozens of packages
-
-Thanks, Github! :octocat:
+- Test-driven development
+- RWD best practices, FlexBox
+- Familiar with much of NPM ecosystem
+- Package-oriented application structure
+- DDP data flows via WebSockets
